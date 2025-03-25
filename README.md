@@ -1,11 +1,11 @@
 # Cafeteria
-Cafeteria Chocopop
-Jogo de matemática do fundamental (7 e 8 ano)
-Personagem princípal: Patricia
-Personagens secundários: Professores do IF
-
-# Feito por:
-Dudinha 
-Maymay
-Rafinha
+Cafeteria Chocopop <br>
+Jogo de matemática do fundamental (7 e 8 ano)<br>
+Personagem princípal: Patricia<br>
+Personagens secundários: Professores do IF<br>
+<br><br>
+# Feito por:<br>
+Dudinha <br>
+Maymay<br>
+Rafinha<br>
 Min
